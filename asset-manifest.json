@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GifsApp-React/static/css/main.5282559f.css",
+    "main.js": "/GifsApp-React/static/js/main.886662a1.js",
+    "index.html": "/GifsApp-React/index.html",
+    "main.5282559f.css.map": "/GifsApp-React/static/css/main.5282559f.css.map",
+    "main.886662a1.js.map": "/GifsApp-React/static/js/main.886662a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5282559f.css",
+    "static/js/main.886662a1.js"
+  ]
+}
